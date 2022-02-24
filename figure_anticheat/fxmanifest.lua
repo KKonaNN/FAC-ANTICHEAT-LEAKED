@@ -1,3 +1,5 @@
+-- PAC > ALL
+-- discord.gg/Jw8XzBWWeX
 fx_version 'adamant'
 game "gta5"
 
@@ -13,7 +15,6 @@ server_scripts {
 	'configs/TriggerConfig.lua',
 	'configs/ClientConfig.lua',
 	'configs/EntityConfig.lua',
-	'manager.lua',
 	'server.lua',
 	'js.js',
 }
